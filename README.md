@@ -1,5 +1,6 @@
 # St-Me: A Profile-wise, Ultrasonic Anemometer and SODAR/RASS Aware Meteorological Processor
 
+![Smoke plumes in Sannazzaro de' Burgondi refinery during early morning, late November](St-Me.JPG?raw=true)
 
 ## Necessity addressed
 
